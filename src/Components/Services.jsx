@@ -5,6 +5,7 @@ function Services(){
     return(
         <div id="services"> 
         <h3 className="s-heading">Explore What We Have to Offer</h3>
+        <div id="s-row">
             <div class="b-container">
             <div id="s-box"> 
                 <div className="s-b-img"> 
@@ -12,7 +13,7 @@ function Services(){
                 </div> 
                 <div className="s-b-text">
                     <h3>
-                    Handbags
+                    Handbags & Totes
                     </h3>
                     <p>
                     Custom styling and elegant manufacturing
@@ -47,6 +48,7 @@ function Services(){
                     </p> 
                 </div>
             </div> 
+            </div>
             </div>
         </div> 
     )
