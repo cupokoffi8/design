@@ -815,7 +815,7 @@ body{
               }
               #services{ 
                 width:100vw;
-                height:120vh;
+                height:80vh;
                 box-sizing: border-box;
                 font-family: calibri;
                 display: flex;
