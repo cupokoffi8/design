@@ -8,7 +8,14 @@ function Features(){
             <h1>Quality Designs Made Right</h1>
             <hr className="divider" /> 
             <p>
-            With years of experience and an education from both the Fashion Institute of Technology and Pratt, Suzanne means business. After having dealt with a multitude of products ranging from low-quality to overpriced brand names, Sue wants to make a statement, showing that great design and quality doesn't have to break the bank.
+            Suzanne Clemente Handbags aren’t just beautifully styled and well made; the “Causes Series” line is a stylish way to show off one’s passion for a particular cause. The ribbons and colors of the “Causes Series” line represent the following causes: Black Lives Matter, Breast Cancer Awareness, AIDS Awareness, Autism Awareness, “Support Our Troops” and LGBT Awareness. We are currently developing a line for “Blue Lives Matter”.
+            </p>
+            <p>
+                We would love to hear feedback from you on your personal cause. We want to inspire positive change through fashion. What’s your cause? “Wear your Cause on your sleeve!”
+                </p>
+            <p>
+                Coming soon… fashion forward Pet Carrier bags from
+                XS Baggage, quality made to carry your favorite furry friends close by on your journey through life! Stay safe and enjoy!
             </p>
             <div className="header-btns">
                 <Link to='services' className='active' smooth={true} duration={1000}><a className='cv-btn1'>Get Started!</a></Link> 

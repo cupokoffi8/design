@@ -2,12 +2,12 @@ import React from "react";
 import Carousel from "react-elastic-carousel";
 import Item from "./item";
 import "./style.css";
-import Image1 from "../Images/suzanne-clemente/Causes-BlackRed/main.jpg";
-import Image2 from "../Images/suzanne-clemente/CausesBucket-Purple/main.jpg"; 
-import Image3 from "../Images/suzanne-clemente/CausesSmall-Grey/main.jpg"; 
-import Image4 from "../Images/suzanne-clemente/CausesWallet-Pink/main.jpg";  
-import Image5 from "../Images/suzanne-clemente/CausesSmall-BlackRed/side.jpg"; 
-import Image6 from "../Images/suzanne-clemente/CausesWallet-Purple/top.jpg"; 
+import Image1 from "../Images/s-images/1.png";
+import Image2 from "../Images/s-images/2.png"; 
+import Image3 from "../Images/s-images/3.png"; 
+import Image4 from "../Images/s-images/4.png";  
+import Image5 from "../Images/s-images/5.png"; 
+import Image6 from "../Images/s-images/6.png"; 
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
