@@ -21,7 +21,7 @@ function Services(){
                 </div>
             </div> 
 
-            <div id="s-box"> 
+            {/* <div id="s-box"> 
                 <div className="s-b-img"> 
                     <FaPaw className="icon" /> 
                 </div> 
@@ -33,7 +33,7 @@ function Services(){
                     An appealing and efficient way for your pets to accompany you on trips
                     </p>
                 </div>
-            </div> 
+            </div>  */}
 
             <div id="s-box"> 
                 <div className="s-b-img"> 
