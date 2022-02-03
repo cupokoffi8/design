@@ -8,6 +8,8 @@ import Image3 from "../Images/s-images/3.png";
 import Image4 from "../Images/s-images/4.png";  
 import Image5 from "../Images/s-images/5.png"; 
 import Image6 from "../Images/s-images/6.png"; 
+import Image7 from "../Images/s-images/7.png"; 
+import Image8 from "../Images/s-images/8.png"; 
 
 const breakPoints = [
   { width: 1, itemsToShow: 1 },
@@ -38,6 +40,12 @@ function Slider() {
           </Item>
           <Item>
             <img src={Image6} className="slider-image" alt="image6"/> 
+          </Item> 
+          <Item>
+            <img src={Image7} className="slider-image" alt="image7"/> 
+          </Item> 
+          <Item>
+            <img src={Image8} className="slider-image" alt="image8"/> 
           </Item> 
         </Carousel>
       </div>
