@@ -261,13 +261,13 @@ body{
   width: 500px;
   } 
   .feedback { 
-    color: #fff !important; 
+    color: rgba(255, 255, 255, 0.932) !important; 
     padding-top: 6px !important; 
     padding-bottom: 6px !important; 
     padding-right: 6px !important; 
     padding-left: 6px !important; 
     display: block; 
-    border: #ffffff !important; 
+    border: #ffffffef !important; 
     border-radius: 15px !important; 
     border-style: dashed !important; 
     border-width: 1px !important;
