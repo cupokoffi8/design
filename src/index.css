@@ -262,14 +262,14 @@ body{
   } 
   .feedback { 
     color: rgba(255, 255, 255, 0.932) !important; 
-    padding-top: 6px !important; 
-    padding-bottom: 6px !important; 
-    padding-right: 6px !important; 
-    padding-left: 6px !important; 
+    padding-top: 18px !important; 
+    padding-bottom: 18px !important; 
+    padding-right: 18px !important; 
+    padding-left: 18px !important; 
     display: block; 
     border: #ffffffef !important; 
     border-radius: 15px !important; 
-    border-style: dashed !important; 
+    border-style: solid !important; 
     border-width: 1px !important;
     background-color: #212529;
   }
@@ -399,14 +399,14 @@ body{
   @media(max-width:1100px){
     .feedback { 
       color: #fff !important; 
-      padding-top: 6px !important; 
-      padding-bottom: 6px !important; 
-      padding-right: 6px !important; 
-      padding-left: 6px !important; 
+      padding-top: 16px !important; 
+      padding-bottom: 16px !important; 
+      padding-right: 16px !important; 
+      padding-left: 16px !important; 
       display: block; 
       border: #ffffff !important; 
       border-radius: 15px !important; 
-      border-style: dashed !important; 
+      border-style: solid !important; 
       border-width: 1px !important;
       background-color: #212529;
     }
@@ -827,14 +827,14 @@ body{
               }
               .feedback { 
                 color: #fff !important; 
-                padding-top: 6px !important; 
-                padding-bottom: 6px !important; 
-                padding-right: 6px !important; 
-                padding-left: 6px !important; 
+                padding-top: 16px !important; 
+                padding-bottom: 16px !important; 
+                padding-right: 16px !important; 
+                padding-left: 16px !important; 
                 display: block; 
                 border: #ffffff !important; 
                 border-radius: 15px !important; 
-                border-style: dashed !important; 
+                border-style: solid !important; 
                 border-width: 1px !important;
                 background-color: #212529;
               }
