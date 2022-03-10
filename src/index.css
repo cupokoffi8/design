@@ -23,7 +23,8 @@ body{
     border: none;
   }
   .logo img{
-    width: 90px;
+    width: 250px;
+    height: auto; 
   }
   .divider{
     height: 0.2rem;
@@ -428,7 +429,8 @@ body{
             padding: 0px 30px;
         }
         .logo img{
-            width:70px;
+            width: 200px;
+            height: auto; 
         }
         .header-btns{
             margin: 0;
@@ -702,7 +704,8 @@ body{
                   padding: 0px 30px;
               }
               .logo img{
-                  width:70px;
+                  width: 200px; 
+                  height: auto; 
               }
               .header-btns{
                   margin: 0;
