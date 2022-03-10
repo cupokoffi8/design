@@ -7,7 +7,7 @@ function Services(){
         <h3 className="s-heading">Explore What We Have to Offer</h3>
         <div id="s-row">
             <div class="b-container">
-            <div id="s-box"> 
+            <div data-aos="fade-right" data-aos-duration="1000" id="s-box"> 
                 <div className="s-b-img"> 
                     <FaShoppingBag className="icon" />
                 </div> 
@@ -35,7 +35,7 @@ function Services(){
                 </div>
             </div>  */}
 
-            <div id="s-box"> 
+            <div data-aos="fade-left" data-aos-duration="1200" id="s-box"> 
                 <div className="s-b-img"> 
                     <FaDesktop className="icon" /> 
                 </div> 
