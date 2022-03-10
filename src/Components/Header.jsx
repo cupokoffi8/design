@@ -9,7 +9,7 @@ function Header(){
     return(
         <div id="main"> 
             <Navbar /> 
-            <div className='name'>
+            <div data-aos="fade-right" data-aos-duration="800" className='name'>
                 <h1 data-aos="fade-right" data-aos-duration="1000" className='the-header'>Find Unique Styles That Fit Your Every Desire</h1>
                 <p data-aos="fade-right" data-aos-duration="1200" className='details'>Through both great passion and expertise, Suzanne has fabricated a wide variety of products that are sure to draw you in!</p> 
                 <div data-aos="fade-right" data-aos-duration="1800" className='header-btns'>
