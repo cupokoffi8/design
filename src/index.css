@@ -58,8 +58,8 @@ body{
   display: flex;
   }
   .active{
-    background-color: transparent;
-    color: #000000bf;
+  background-color: transparent;
+  color: #000000bf;
   transition: all ease 0.2s;
   }
   nav ul li a{
@@ -94,6 +94,7 @@ body{
   position: absolute;
   text-align: center;
   margin-top: 35vh; 
+  backdrop-filter: blur(2px);
   } 
 
   .name .details{
