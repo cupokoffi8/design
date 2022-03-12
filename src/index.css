@@ -42,7 +42,7 @@ body{
     height:100vh;
     position: relative; 
     background-size: cover !important; 
-    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/background3.png"); 
+    background: linear-gradient( to bottom, rgba(0, 0, 0, 0.644) 0%, rgba(70, 70, 71, 0.8) 100% ), url("Images/background4.jpg"); 
   }
   nav{
   display: flex;
