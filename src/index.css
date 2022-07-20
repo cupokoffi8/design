@@ -91,10 +91,10 @@ body{
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 16px; 
   left: 12vw; 
-  width: 45vw;
+  width: 35vw;
   position: absolute;
   text-align: center;
-  margin-top: 35vh; 
+  margin-top: 32vh; 
   background-color: #212529;
   backdrop-filter: blur(20px);
   padding: 10px 10px; 
