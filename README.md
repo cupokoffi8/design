@@ -1,1 +1,1 @@
-Welcome! This repository is dedicated to showing the work of Suzanne Clemente @www.sclemente.design 
+Welcome! This repository is dedicated to showing the work of Suzanne Clemente @www.sclemente.us
