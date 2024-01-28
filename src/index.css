@@ -852,14 +852,14 @@ body{
               }
               #services{ 
                 width:100vw;
-                height:90vh;
+                height:95vh;
                 box-sizing: border-box;
                 font-family: calibri;
                 display: flex;
                 flex-direction: column;
                 align-items: center;
                 justify-content: center; 
-                padding-top: 40px ;
+                padding-bottom: 6vh;
                 background-color: #212529;
               } 
 
